@@ -5,7 +5,6 @@ Nature-inspired optimisation techniques can help find optimal parameters in regr
 models where standard methods struggle due to complex solution spaces.
 
 In this project, I implemented:
-A nature-inspired metaheuristic — the Bees Algorithm
 - Polynomial and spline regression models
 - Custom optimisation using three different fitness metrics:
   - Mean-Squared Error (MSE)
